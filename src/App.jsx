@@ -421,6 +421,7 @@ function App() {
 
         <div>
           © 2026 AgriSmart
+          Engineered by Ronald kiprotich
         </div>
       </footer>
 
